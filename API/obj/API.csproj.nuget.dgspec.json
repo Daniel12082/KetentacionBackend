@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\Downloads\\KetentacionBackend\\API\\API.csproj": {}
+    "C:\\Users\\dell\\Desktop\\KetentacionBackend\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\Downloads\\KetentacionBackend\\API\\API.csproj": {
+    "C:\\Users\\dell\\Desktop\\KetentacionBackend\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\API\\API.csproj",
+        "projectPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\API\\API.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\API\\obj\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Aplication\\Aplication.csproj": {
-                "projectPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Aplication\\Aplication.csproj"
+              "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Aplication\\Aplication.csproj": {
+                "projectPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Aplication\\Aplication.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Aplication\\Aplication.csproj": {
+    "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Aplication\\Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Aplication\\Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Aplication\\Aplication.csproj",
         "projectName": "Aplication",
-        "projectPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Aplication\\Aplication.csproj",
+        "projectPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Aplication\\Aplication.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Aplication\\obj\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,11 +122,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Domain\\Domain.csproj"
+              "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Persistence\\Persistence.csproj"
+              "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Domain\\Domain.csproj": {
+    "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -229,14 +229,14 @@
         }
       }
     },
-    "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -253,8 +253,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Domain\\Domain.csproj"
+              "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Domain\\Domain.csproj"
               }
             }
           }

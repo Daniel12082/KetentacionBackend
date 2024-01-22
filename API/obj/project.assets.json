@@ -6020,11 +6020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\API\\API.csproj",
+      "projectPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\API\\API.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\API\\obj\\",
+      "outputPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6041,8 +6041,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Aplication\\Aplication.csproj": {
-              "projectPath": "C:\\Users\\dell\\Downloads\\KetentacionBackend\\Aplication\\Aplication.csproj"
+            "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Aplication\\Aplication.csproj": {
+              "projectPath": "C:\\Users\\dell\\Desktop\\KetentacionBackend\\Aplication\\Aplication.csproj"
             }
           }
         }
