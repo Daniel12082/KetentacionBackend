@@ -1,6 +1,5 @@
 ./API/obj
 ./Domain/obj
-./Domain/obj
 
 
 ## Ignore Visual Studio temporary files, build results, and
